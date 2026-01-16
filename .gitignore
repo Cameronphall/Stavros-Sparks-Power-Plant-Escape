@@ -1,0 +1,15 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# Build directories
+bin/
+dist/
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
